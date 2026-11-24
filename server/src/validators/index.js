@@ -1,4 +1,4 @@
-// AI assistance: Google Gemini (Antigravity) helped draft these Zod validators.
+
 import { z } from 'zod';
 
 export const registerSchema = z.object({
